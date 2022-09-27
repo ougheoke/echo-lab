@@ -9,6 +9,6 @@ console.log("el is =:", el);
 $(document).ready(function () {
   $("#sendName").click(function () {
     //console.log($("#fname").val());
-    $("#greetingOutput").text("Hello " + $("#fname").val() + " :)\r\nWelcome to my webpage!"); 
+    $("#greetingOutput").text("Hello " + $("#fname").val() + " :)  Welcome to my webpage!"); 
   });
 });
